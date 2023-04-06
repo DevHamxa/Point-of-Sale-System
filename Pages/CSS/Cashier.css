@@ -1,0 +1,108 @@
+@charset "utf-8";
+/* CSS Document */
+#main
+{
+	background-color:#FFF;
+	height:auto; width:auto; 
+	margin:auto;
+}
+
+#former
+{
+	margin-top:3px;
+	float:left;
+	
+}
+#f002inr
+{
+	width:260px; height:30px;
+	border-radius:20px;
+	border:1px solid #F0F;
+	font-size:15px;
+	padding-left:15px;
+	margin-left:3px;
+}
+#f002inr::placeholder 
+{
+	color:#999;
+	font-size:14px;
+}
+#f003inr
+{
+	width:70px;
+	height:30px;
+	border-radius:20px;
+	border:1px solid #F0F;
+	font-size:15px;
+	color:#FFFFFF;
+	background-color:#FF00FF;
+}
+#f003inq
+{
+	width:100px;
+	height:36px;
+	border-radius:20px;
+	border:1px solid #F0F;
+	font-size:15px;
+	color:#FFFFFF;
+	background-color:#FF00FF;
+}
+#f002in::placeholder 
+{
+	color:#999;
+	font-size:14px;
+}
+#table
+{
+	position:absolute; top:50%; left:50%;
+	transform:translate(-50%,-50%);
+	border-radius:30px;
+	margin-top:100px;
+	box-shadow:0px 0px 10px 0px rgba(0, 0, 0, 0.2), 0px 40px 40px rgba(0, 0, 0, 0.1);
+}
+#f001 td
+{
+	color:#F0F;
+}
+#f002 td 
+{
+	color:#F0F;
+	padding-left:35px;
+}
+#f002in
+{
+	width:260px; height:35px;
+	border-radius:20px;
+	border:1px solid #F0F;
+	font-size:15px;
+	padding-left:15px;
+	margin-left:3px;
+}
+#f002 td a
+{
+	text-decoration:none;
+}
+#f003in
+{
+	width:310px;
+	height:40px;
+	border-radius:20px;
+	border:1px solid #F0F;
+	font-size:15px;
+	color:#FFFFFF;
+	background-color:#FF00FF;
+}
+/*#mbody
+{
+	background-color:#FFF;
+	height:auto; width:800px;
+	box-shadow:0px 0px 10px 10px rgba(0, 0, 0, 0.2), 0px 40px 40px rgba(0, 0, 0, 0.1);
+	margin-top:100px; margin-left:auto; margin-right:auto;
+	position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+}*/
+/*#mbody1
+{
+	height:650px; width:auto;
+	margin-top:5px; margin-left:auto; margin-right:auto;
+	
+}*/

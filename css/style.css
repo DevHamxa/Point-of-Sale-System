@@ -1,0 +1,84 @@
+body {
+	background: #fff;
+	color: #444;
+	font-family: "Open Sans", sans-serif;
+}
+
+a {
+  color: #007bff;
+  transition: 0.5s;
+}
+
+a:hover,
+a:active,
+a:focus {
+  color: red;
+  outline: none;
+  text-decoration: none;
+}
+
+p {
+  padding: 0;
+  margin: 0 0 30px 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  margin: 0 0 20px 0;
+  padding: 0;
+}
+
+/*--------------------------------------------------------------
+# main body
+--------------------------------------------------------------*/
+/*#former
+{
+  background: url("img/img_1.jpg") center bottom no-repeat; 
+}*/
+#table
+{
+  margin-top: 70px;
+  margin-bottom: 30px;
+  border-radius:30px;
+  box-shadow:0px 0px 10px 0px rgba(0, 0, 0, 0.2), 0px 40px 40px rgba(0, 0, 0, 0.1);
+}
+#f001 td
+{
+  color:#F0F;
+}
+#f002 td 
+{
+  color:#F0F;
+  padding-left:35px;
+}
+#f002 td a
+{
+  text-decoration: none;
+}
+#f002in
+{
+  background-color: rgba(0,0,0,0.0);
+  color:#333;
+  width:290px; height:35px;
+  border-radius:20px;
+  border:1px solid #F0F;
+  font-size:15px;
+  padding-left:15px;
+  margin-left:3px;
+}
+#f003in
+{
+  width:310px;
+  height:40px;
+  border-radius:20px;
+  border:1px solid #F0F;
+  font-size:15px;
+  color:#FFFFFF;
+  background-color:#FF00FF;
+}
