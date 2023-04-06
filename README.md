@@ -14,3 +14,10 @@ The scope of this project includes solutions for managing the employee  data, sa
 - Keeping record of suppliers and our purchase orders
 - Keeping track of total sales
 - Notifying stock manager when an item is low in stock so that he can create a purchase order.
+<br>
+<hr>
+
+|**Project By**|
+|:--|
+|Muhammad Hamza Fayyaz|
+|Muhammad Abdullah Zahid|
